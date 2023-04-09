@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>证券行情数据解析器</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<h1>证券行情数据解析器</h1>
+	<div class="container">
+		<div class="input-box">
+			<label for="raw-data">原始数据</label>
+			<textarea id="raw-data" name="raw-data" rows="10" style="width: 100%;"></textarea>
+		</div>
+		<div class="options-box">
+			<label for="file-type">文件类型</label>
+			<div class="radio-group" id="file-type"></div>
+		</div>
+		<button class="btn" id="parse-btn">解析</button>
+		<div class="table-box">
+			<table id="parsed-table"></table>
+		</div>
+	</div>
+
+	<script src="app.js"></script>
+</body>
+</html>
