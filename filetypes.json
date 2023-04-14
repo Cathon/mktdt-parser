@@ -1,18 +1,26 @@
 [
-  {
-    "name": "mktdt00_MD001",
-    "path": "mktdt00_MD001.json"
-  },
-  {
-    "name": "mktdt00_MD002",
-    "path": "mktdt00_MD002.json"
-  },
-  {
-    "name": "mktdt00_MD003",
-    "path": "mktdt00_MD003.json"
-  },
-  {
-    "name": "mktdt00_MD004",
-    "path": "mktdt00_MD004.json"
-  }
+    {
+        "name": "mktdt00_MD001",
+        "path": "mktdt00_MD001.json"
+    },
+    {
+        "name": "mktdt00_MD002",
+        "path": "mktdt00_MD002.json"
+    },
+    {
+        "name": "mktdt00_MD003",
+        "path": "mktdt00_MD003.json"
+    },
+    {
+        "name": "mktdt00_MD004",
+        "path": "mktdt00_MD004.json"
+    },
+    {
+        "name": "cpxx0201MMDD",
+        "path": "cpxx0201MMDD.json"
+    },
+    {
+        "name": "fjyYYYYMMDD",
+        "path": "fjyYYYYMMDD.json"
+    }
 ]
